@@ -1,0 +1,6 @@
+Кластеры:
+
+Данные (DataBaseConnector, DataInterface, DataUpdater, DataLog)
+Инфраструктура (Warning, Alarm, MovementPipeline, CalculationPipeline)
+Робот (Robot, KinematicsModel)
+Клиент (Client, Interface)
